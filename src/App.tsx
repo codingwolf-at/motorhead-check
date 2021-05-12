@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello TypeScript</h1>
+        <h2>This is development branch.</h2>
       </header>
     </div>
   );
