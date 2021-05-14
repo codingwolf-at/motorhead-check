@@ -6,6 +6,7 @@ export const QuizDB: Quiz = {
     {
       id: 1,
       question: "Capital of MP?",
+      points: 5,
       options: [
         {
           text: "Bhopal",

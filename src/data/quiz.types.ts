@@ -6,6 +6,7 @@ export type Options = {
 export type Questions = {
   id: number;
   question: string;
+  points: number,
   options: Options[]
 }
 
