@@ -1,4 +1,3 @@
-import './App.css';
 import { Header } from './components';
 import {Button} from "@chakra-ui/react";
 import { useQuiz } from './custom hooks/useQuiz';
